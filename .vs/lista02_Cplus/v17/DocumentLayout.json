@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47465025877\\Documents\\lista02_Cplus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B547E8A-FC86-40C2-9E58-D3D7EBF28E63}|lista02_Cplus\\lista02_Cplus.vcxproj|C:\\Users\\47465025877\\Documents\\lista02_Cplus\\lista02_Cplus\\lista02_Cplus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B547E8A-FC86-40C2-9E58-D3D7EBF28E63}|lista02_Cplus\\lista02_Cplus.vcxproj|solutionrelative:lista02_Cplus\\lista02_Cplus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lista02_Cplus.cpp",
+              "DocumentMoniker": "C:\\Users\\47465025877\\Documents\\lista02_Cplus\\lista02_Cplus\\lista02_Cplus.cpp",
+              "RelativeDocumentMoniker": "lista02_Cplus\\lista02_Cplus.cpp",
+              "ToolTip": "C:\\Users\\47465025877\\Documents\\lista02_Cplus\\lista02_Cplus\\lista02_Cplus.cpp",
+              "RelativeToolTip": "lista02_Cplus\\lista02_Cplus.cpp",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAYwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T18:26:57.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
